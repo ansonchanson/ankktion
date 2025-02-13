@@ -929,17 +929,9 @@
   ],
   "lives": [
     {
-      "name": "钵钵鸡",
+      "name": "1111",
       "type": 0,
       "url": "./lib/boboji.m3u",
       "playerType": 1
-    },
-    {
-      "name": "范明明",
-      "type": 0,
-      "url": "./lib/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15"
-    }
-  ]
+    } ]
 }
