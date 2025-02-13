@@ -38,7 +38,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -50,7 +50,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
+        "danmu": false,
         "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
       }
     },
@@ -63,7 +63,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
+        "danmu": false,
         "site": "aHR0cDovL3YucmJvdHYuY24="
       }
     },
@@ -76,7 +76,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
+        "danmu": false,
         "site": "aHR0cDovL3YubGt1eXMuY24="
       }
     },
@@ -89,7 +89,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -101,7 +101,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -117,7 +117,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "https://www.libvio.cc",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -199,7 +199,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -211,7 +211,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -223,7 +223,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -238,8 +238,8 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "wogg": true,
-        "danmu": true
+        "wogg": false,
+        "danmu": false
       }
     },
     {
@@ -256,7 +256,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "http://1.95.79.193",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -273,7 +273,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "https://woog.nxog.eu.org",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -289,7 +289,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "http://www.mucpan.cc",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -305,7 +305,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "https://tv.yydsys.top",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -321,7 +321,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "http://feimaoai.site",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -337,7 +337,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "https://xiaomiai.site",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -353,7 +353,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "http://www.mogg.top",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -370,7 +370,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "https://wp.0v.fit",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -386,7 +386,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "http://103.45.162.207:20720",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -402,7 +402,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "http://txfpan.top",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -1589,7 +1589,7 @@
       "changeable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -1602,7 +1602,7 @@
       "changeable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "danmu": true,
+        "danmu": false,
         "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
       }
     },
@@ -1617,7 +1617,7 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -1630,7 +1630,7 @@
       "changeable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -1643,7 +1643,7 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -1657,7 +1657,7 @@
       "changeable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -1670,7 +1670,7 @@
       "changeable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -1881,7 +1881,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "danmu": true
+        "danmu": false
       }
     }
   ],
