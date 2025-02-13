@@ -1,0 +1,35 @@
+{
+  "urls": [
+    {
+      "name": "🌋自用拾光📶",
+      "url": "https://gitea.moe/Ansonchan/ankktion/raw/branch/main/api.json"
+    },{
+      "name": "🌋王二放牛📶",
+      "url": "https://gitea.moe/Ansonchan/ankktion/raw/branch/main/niuwa/%E7%8E%8B%E4%BA%8C%E5%B0%8F%E6%94%BE%E7%89%9B%E5%A8%83.json"
+    },
+    {
+      "name": "♻️拾光仓库🈵",
+      "url": "https://gitea.moe/omg/omg/raw/branch/main/api.json"
+     },  
+     {
+      "name": "♻️拾光短剧🈵",
+      "url": "https://4708.kstore.space/DJ/dj.json"
+      },
+      {
+      "name": "♻️日后开心🈵",
+      "url": "http://rihou.cc:55/天天开心"
+      },
+      {
+      "name": "♻️玉儿仓库🈵",
+      "url": "https://fmbox.cc"
+      },
+       {
+      "name": "♻️王二放牛🈵",
+      "url": "https://fmbox.cc"
+        },
+         {
+      "name": "♻️老牛吃草🈵",
+      "url": "https://gitea.moe/Ansonchan/ankktion/raw/branch/main/wuxiao/chan.json"
+        }
+      ]
+   }
