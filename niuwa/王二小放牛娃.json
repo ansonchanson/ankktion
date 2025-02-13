@@ -931,7 +931,7 @@
     {
       "name": "1111",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/ansonchanson/ankktion/refs/heads/main/niuwa/lib/boboji.m3u",
+      "url": "https://gitea.moe/Ansonchan/ankktion/raw/branch/main/niuwa/lib/boboji.m3u",
       "playerType": 1
     } ]
 }
