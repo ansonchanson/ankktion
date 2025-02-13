@@ -17,16 +17,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },  
-   
-    {"key":"森林资源",
-    "name":"森林资源",
-    "type":1,
-    "api":"https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },  
+    }, 
     {"key":"老色逼资源站",
     "name":"老色逼资源站",
     "type":1,
